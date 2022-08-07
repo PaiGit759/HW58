@@ -1,0 +1,70 @@
+body {
+    background-color: rgba(227, 214, 197, 0.664);
+}
+
+.exsample {
+    top:5%;
+}
+
+.exsample1 {
+    top: 15%;
+}
+
+.exsample2 {
+    top: 16%;
+}
+
+.exsample3 {
+    top: 24%;
+}
+
+.exsample4 {
+    top: 32%;
+}
+
+.exsample5 {
+    top: 40%;
+}
+
+.exsample6 {
+    top: 48%;
+}
+
+.exsample,
+.exsample1,
+.exsample2,
+.exsample3,
+.exsample4,
+.exsample5,
+.exsample6 {
+    position: absolute;
+    left: 20%;
+    width: 60%;
+    height: 30px;
+    background-color: rgb(138, 212, 212);
+    padding-top: 15px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    margin-top: 5px;
+    text-align: center;
+}
+
+
+.exsample1 {
+    position: absolute;
+    left: 20%;
+    width: 60%;
+    height: 30px;
+    background-color:  rgba(227, 214, 197, 0.664);
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    margin-top: 5px;
+    text-align: center;
+}
+
+/*
+ 
+ */
